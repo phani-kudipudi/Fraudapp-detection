@@ -4,13 +4,6 @@
 ## Project Overview
 
 This project focuses on detecting fraudulent mobile applications. It incorporates Natural Language Processing (NLP) for sentiment analysis of user feedback to identify potential fraud. The system is built to scrape data from Google Play Store, analyze user reviews, and apply both fraud detection algorithms and sentiment analysis to flag suspicious apps.
-
-## Live Demo
-
-Check out the live demo of the project here: [Fraud Detection App](https://project-mini.streamlit.app/)
-
-
-## Features
 - **Fraud Detection**: Employs machine learning models to detect fraud patterns in mobile applications based on reviews and ratings.
 - **Sentiment Analysis**: Uses NLP techniques to extract sentiment (positive, neutral, or negative) from user feedback, helping identify fraudulent or problematic apps.
 - **Scraping**: Utilizes Google Play Scraper to gather app data and reviews.
@@ -28,7 +21,7 @@ Check out the live demo of the project here: [Fraud Detection App](https://proje
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bhargavsai-lingampalli/fraud-app-detection
+   git clone https://github.com/phani-kudipudi/fraud-app-detection
    cd fraud-app-detection
    ```
 
